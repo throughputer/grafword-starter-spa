@@ -25,7 +25,7 @@ This is a Single Page Application (SPA) starter integrated with Grafword for use
 ## Configuration
 
 1. **Contact Throughputer admin:**  
-   Email your redirect URI/URIs to the admin at `info@throughputer.com`. You will receive `clientId` and `grafwordDomain` in response.
+   Email your redirect URI/URIs e.g `http://localhost:8000/profile` to the admin at `info@throughputer.com`. You will receive `clientId` and `grafwordDomain` in response.
 
 
 2. **Update configuration:**  
