@@ -1,6 +1,6 @@
-# Grafword Starter SPA
+# Grafword Starter SPA (Local Hosting)
 
-This is a Single Page Application (SPA) starter integrated with Grafword for user identity and access management.
+This is a Single Page Application (SPA) starter integrated with Grafword for user identity and access management. This tutorial will guide you through the process of hosting the application on your local machine.
 
 ## Prerequisites
 
